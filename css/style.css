@@ -1,0 +1,7 @@
+.nav li a{
+    color: white;
+}
+.col-4:hover{ 
+    transform: scale(1.1);
+    transition: 1s;
+}
